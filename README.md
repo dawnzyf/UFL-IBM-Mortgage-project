@@ -1,3 +1,3 @@
-# Private-project
-Private use for course only
-Do not download/share/Business usage
+# Private-Group-project
+Private use for UFL course only
+Do not download/share/Otherwise usage
